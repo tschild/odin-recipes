@@ -8,3 +8,5 @@ This will contain:
 - Putting in Lists (ordered and unordered)
 - Including hyperlinks (related and absolute)
 - Including pictures
+
+Besides that the project will be shared through git on GitHub so I learn how to work with Git.
